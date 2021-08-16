@@ -65,3 +65,4 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8/obj
 /Users/lukeblondin/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.dll
 /Users/lukeblondin/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
 /Users/lukeblondin/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/lukeblondin/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
